@@ -1,1 +1,2 @@
 alert("Probando JavaScript")
+console.log("GRACIAS A DEBIAN PUDE HACER ESO PQ ME BANERAON DE GITHUB EN VSCODE")
